@@ -8,6 +8,6 @@
 import Foundation
 
 class Gitgud {
-    var name:String?
+    var name = "Silvério"
     
 }
